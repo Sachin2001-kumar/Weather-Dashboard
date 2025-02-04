@@ -9,11 +9,14 @@ Follow these steps to set up and run the project on your local machine.
 
 ### 1.) Prerequisites  
 Ensure you have the following installed:  
-- **Node.js**  → [Download here](https://nodejs.org/)  
+- **Node.js** 
 - **npm** or **yarn**  
 
 ### 2.) Clone the Repository  
 ```sh
 git clone https://github.com/Sachin2001-kumar/Weather-Dashboard.git
 cd weather-dashboard
+```
+### 3.) Run the Project  
+**npm run dev** or **yarn dev**
 
