@@ -8,7 +8,7 @@ The app supports **unit conversion (Celsius ↔ Fahrenheit)** and **auto-fetches
 
 ---
 
-## 🚀 Project Setup  
+## Project Setup  
 
 Follow these steps to set up and run the project on your local machine.  
 
