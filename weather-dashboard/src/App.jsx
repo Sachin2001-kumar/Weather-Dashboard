@@ -19,7 +19,6 @@ const App = () => {
       fetchWeather(lastCity);
     }
     
-    // Polling every 30 seconds
     const interval = setInterval(() => {
       if (lastCity) fetchWeather(lastCity);
     }, 30000);
